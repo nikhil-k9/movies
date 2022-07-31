@@ -1,2 +1,3 @@
 Dangal collected 1000 cr in china.
 
+Some editing to the text using terminal on the git branch.
